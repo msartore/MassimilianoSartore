@@ -15,8 +15,8 @@
 ### Glad to see you here! 🤩
 <p>I'm <b>Massimiliano Sartore</b>, a tech enthusiast who loves to learn about new technologies and leverage them to solve real-life problems.</p>
 
-- 🔭 I’m currently working on: [**Ares**](https://ares.msartore.dev/)
-- 🌱 Currently learning [**PostgreSQL**](https://www.postgresql.org/about/) ✨
+- 🔭 I’m currently working on: [**ATA-GUI**](https://ata.msartore.dev/)
+- 🌱 Currently learning [**Vue**](https://vuejs.org/) and [**Vite**](https://vitejs.dev/) ✨
 - 👯 Looking to collaborate on new project ideas 
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
 - 📫 How to reach me: **Just use any of the platforms above**
